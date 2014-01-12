@@ -1,2 +1,7 @@
 this is a test README file
+<<<<<<< HEAD
 Changing README while on the master branch
+=======
+Changed it!!!
+And Changed it again. Boy this is fun.
+>>>>>>> testing
