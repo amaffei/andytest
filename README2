@@ -1,3 +1,7 @@
 another README File. Doing some testing.
 slkdjf
+<<<<<<< HEAD
 Changing this agiain
+=======
+Changing README2 now
+>>>>>>> readme2-work
